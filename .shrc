@@ -1,0 +1,10 @@
+# shared env and aliases for interactive shells (bash, zsh)
+export CLICOLOR=1
+export EDITOR=vim
+export LESS="FRX"
+# export LSCOLORS=gxfxbEaEBxxEhEhBaDaCaD
+# export LSCOLORS=ExFxCxDxBxegedabagacad
+export VISUAL="$EDITOR"
+
+alias gpg=gpg2
+
